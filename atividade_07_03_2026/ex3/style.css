@@ -1,0 +1,36 @@
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#div_central{
+    display: flex;
+    align-items: center;
+    width: 20rem;
+    flex-direction: column;
+    justify-content: space-between;
+}
+input{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 16rem;
+    margin: 1rem 0 0.1rem 0;
+}
+#tabuada{
+    display: flex;
+    width: auto;
+    height: auto;
+    border:1px black solid;
+}
+
+div #tabuada select{
+    width: auto;
+    height: 20rem;
+}
+
+#act_btn{
+    width: 6rem;
+    background-color: black;
+    color: white;
+    align-self: self-end;
+}

@@ -1,0 +1,23 @@
+.conteudo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+#div_central{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height:auto;
+    align-self: center;
+}
+#btn_act{
+    width: 5rem;
+    margin-top: 4%;
+    align-self: last baseline;
+}
+#div_soma{
+    display: flex;
+    width: auto;
+    height: auto;
+}
